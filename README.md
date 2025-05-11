@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In the late 1970s, I wrote my first lines of code on India’s first digital computer—designed at Bhabha Atomic Research Center. It was a 12-bit machine, with 4KB of RAM, no hard disk, and a bootstrap loader entered in binary via bulky mechanical switches.
+In the late 1970s, I wrote my first lines of code on TDC-12, India’s first digital computer—designed at Bhabha Atomic Research Center. It was a 12-bit machine, with 4KB of RAM, no hard disk, and a bootstrap loader entered in binary via bulky mechanical switches.
 
 The world has changed. My curiosity hasn’t.
 
