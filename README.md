@@ -25,3 +25,4 @@ Currently working on [winkComposer](https://github.com/winkjs/wink-composer)—a
 
 I am also curious about quantum computing ⚛️. Often found in the kitchen 🍲 when not at the keyboard 👨‍💻.
 
+Read more about my open source journey at https://opensource.org/maintainers/sanjayaksaxena.
