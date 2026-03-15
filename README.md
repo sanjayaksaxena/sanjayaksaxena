@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In the late 1970s, I wrote my first lines of code on TDC-12, India’s first digital computer—designed at Bhabha Atomic Research Center. It was a 12-bit machine, with 4KB of RAM, no hard disk, and a bootstrap loader entered in binary via bulky mechanical switches.
+In the late 1970s, I wrote my first lines of code on TDC-12, India's first indigenous digital computer — designed at Bhabha Atomic Research Centre. A 12-bit machine, 4KB of RAM, no hard disk, and a bootstrap loader entered in binary via bulky mechanical switches.
 
-The world has changed. My curiosity hasn’t.
+Today, I spin up multiple coding agents, each with different skills, to build open-source systems.
 
-Since 2018, I’ve maintained [winkNLP](https://github.com/winkjs/wink-nlp)—a developer-friendly NLP library with zero-dependency, ~100% test coverage and OpenSSF-aligned security practices. In 2024, it received India’s top AI honor: the NASSCOM AI Game Changer award.
+The tools have changed. My curiosity and the engineering discipline haven't.
 
-Currently working on [winkComposer](https://github.com/winkjs/wink-composer)—a streaming analytics framework for Node.js. It turns continuous data into insights using a reactive graph that adapts under load, supports both CPU- and I/O-bound tasks, and integrates LLM-powered reasoning with graph-based digital twins. It's early days, and your ideas are welcome.
+I created and maintain [winkNLP](https://github.com/winkjs/wink-nlp) — a zero-dependency JavaScript NLP library designed for production with ~100% test coverage. It ranks #3 globally among JavaScript projects for OpenSSF adherence and is used across 2,750+ open-source projects. Recognised with the NASSCOM AI Game Changer award (2024).
 
-I am also curious about quantum computing ⚛️. Often found in the kitchen 🍲 when not at the keyboard 👨‍💻.
+Currently building [winkComposer](https://github.com/winkjs/composer) — a composable, AI-native streaming intelligence framework for Node.js. It turns continuous data into actionable insights, integrates LLM reasoning via MCP, and is designed to bring enterprise-grade intelligence to MSMEs and SMBs. It is in active development, and your ideas are welcome.
 
-Read more about my open source journey at https://opensource.org/maintainers/sanjayaksaxena.
+Featured by the Open Source Initiative (2025) and in the NASSCOM Makers Honor compendium (2026).
+
+Also curious about quantum computing ⚛️. Often found in the kitchen 🍲 when not at the keyboard 👨‍💻.
+
+Read more about my open-source journey at __https://opensource.org/maintainers/sanjayaksaxena__.
+
