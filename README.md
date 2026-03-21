@@ -25,7 +25,7 @@ I created and maintain [winkNLP](https://github.com/winkjs/wink-nlp) — a zero-
 
 Currently building [winkComposer](https://github.com/winkjs/composer) — a composable, AI-native streaming intelligence framework for Node.js. It turns continuous data into actionable insights, integrates LLM reasoning via MCP, and is designed to bring enterprise-grade intelligence to MSMEs and SMBs. It is in active development, and your ideas are welcome.
 
-Featured by the Open Source Initiative (2025) and in the NASSCOM Makers Honor compendium (2026).
+Featured by the [Open Source Initiative (2025)](https://opensource.org/maintainers/sanjayaksaxena) and in the [NASSCOM Makers Honor compendium (2026)](https://nasscom.in/makers-honor-awards/winners/pdf/makers_honor_compendium_web_compressed_24_02_2026.pdf).
 
 Also curious about quantum computing ⚛️. Often found in the kitchen 🍲 when not at the keyboard 👨‍💻.
 
